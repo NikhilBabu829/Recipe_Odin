@@ -11,7 +11,7 @@ function navbar(){
 
     const anotherAnchorInNav = document.createElement('a');
     anotherAnchorInNav.innerText = "Menu";
-    anotherAnchorInNav.classList.add('menu')
+    anotherAnchorInNav.classList.add('navMenu_btn')
 
     navbar.appendChild(anchorInNav);
     navbar.appendChild(paragraphInNav);
