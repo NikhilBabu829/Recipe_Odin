@@ -43,7 +43,7 @@ body {
 .recipiesContent{
 	box-sizing: border-box;
 	width: 100%;
-	min-height: 100vh;
+	min-height: 200vh;
 	gap: 10%;
 	display: grid;
 	padding: 5% 10% 5% 10%;
