@@ -38,6 +38,7 @@ body {
 
 .navBar a:hover{
     text-decoration: underline;
+	cursor:grab;
 }
 
 .recipiesContent{
@@ -133,6 +134,7 @@ body {
 }
 .menu_btn:hover{
 	background-color: rgb(237, 237, 237);
+	cursor:grab;
 }
 
 .anotherBlock{
